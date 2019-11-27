@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1849459e-9a30-4bff-980d-0bbf44bf6ca1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/TorontoClustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TorontoClustering.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="1849459e-9a30-4bff-980d-0bbf44bf6ca1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +19,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BusinessLocationAnalysis.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IBMDataScienceProfessionalCertificate/MLCourseWeek6.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
@@ -131,7 +138,7 @@
     <entry file="file://$PROJECT_DIR$/FirstAssignment.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="1" />
+          <selected id="0" />
         </state>
       </provider>
     </entry>
@@ -143,6 +150,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BusinessLocationAnalysis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IBMDataScienceProfessionalCertificate/MLCourseWeek6.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
