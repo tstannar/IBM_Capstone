@@ -1,0 +1,18 @@
+Are places with more restaurants richer/higher income?
+Do places with more restaurants have more income? 
+Do places with more income have more identity theft?
+Which place have the most successful restaurants?
+Do places with more restaurants have more health/heart disease problems?
+
+Easy: Use foursquare api to determine ratio of restaurant
+ to non-restaurant venues, see if it will have an effect on success?
+
+Potential data sources:
+https://www.analyticsvidhya.com/blog/2016/11/25-websites-to-find-datasets-for-data-science-projects/
+https://github.com/awesomedata/awesome-public-datasets
+https://www.kdnuggets.com/datasets/index.html
+https://www.dataquest.io/blog/free-datasets-for-projects/
+https://www.dataquest.io/blog/free-datasets-for-projects/
+
+Oregon Zip code Map
+https://geo.nyu.edu/catalog/harvard-tg00orzcta

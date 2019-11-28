@@ -1,0 +1,5 @@
+Eventually I would like to get a house that balances relatively low cost, good nearby gyms and restaurants, and good schools. For this I will combine Foursquare API and house price and school data to find the optimum spot to wait for a house to sell, then buy it if I have enough money.
+I will combine foursquare API for the restaurant and gym data with Zillow house price data and US census school data.
+https://www.zillow.com/research/data/
+school data:
+https://www.greatschools.org/api/docs/school-census-data/
