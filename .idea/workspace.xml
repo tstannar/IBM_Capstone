@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1849459e-9a30-4bff-980d-0bbf44bf6ca1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/BusinessLocationAnalysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BusinessLocationAnalysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TorontoClustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TorontoClustering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$M_ReportOnPortlandHousePrices.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$M_ReportOnPortlandHousePrices.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~WRL2946.tmp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +32,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project Description.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PriceClustering.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
@@ -61,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-18" />
     <option name="y" value="-18" />
     <option name="width" value="2916" />
@@ -116,7 +126,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24960254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -138,7 +148,15 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/IBMDataScienceProfessionalCertificate/MLCourseWeek6.ipynb" />
     <entry file="file://$PROJECT_DIR$/FirstAssignment.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BusinessLocationAnalysis.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
@@ -152,13 +170,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IBMDataScienceProfessionalCertificate/MLCourseWeek6.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project Description.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -166,7 +177,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BusinessLocationAnalysis.ipynb">
+    <entry file="file://$PROJECT_DIR$/PriceClustering.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
